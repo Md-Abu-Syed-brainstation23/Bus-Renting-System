@@ -1,0 +1,13 @@
+The types of bus tickets based on the passengers can also vary depending on the bus company and location. Here are some common types of bus tickets based on passengers:
+
+Adult ticket: This is a standard ticket for adults.
+
+Child ticket: This is a discounted ticket for children typically between the ages of 2-11. The discount amount can vary depending on the bus company and location.
+
+Senior citizen ticket: This is a discounted ticket for senior citizens, typically for passengers over the age of 60 or 65.
+
+Student ticket: This is a discounted ticket for students, typically for passengers enrolled in full-time education up to the age of 25.
+
+Group ticket: This is a discounted ticket for a group of passengers traveling together, often with a minimum number of passengers required to qualify for the discount.
+
+Disability ticket: This is a discounted ticket for passengers with disabilities, often requiring proof of disability or identification.
